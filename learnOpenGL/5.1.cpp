@@ -7,6 +7,7 @@
 #include"stb_image.h"
 #include<iostream>
 
+
 void framebuffer_size_callback(GLFWwindow* window, int width, int height) {
 	glViewport(0, 0, width, height);
 }
@@ -16,6 +17,7 @@ void processInput(GLFWwindow* window) {
 		glfwSetWindowShouldClose(window, true);
 	}
 }
+
 
 const int WINDOW_HEIGHT = 600;
 const int WINDOW_WIDTH = 800;

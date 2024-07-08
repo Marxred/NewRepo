@@ -142,6 +142,7 @@
     <None Include="4.1.texture.vs" />
     <None Include="5.1.fs" />
     <None Include="5.1.vs" />
+    <None Include="DS2.webp" />
     <None Include="testShader.fs" />
     <None Include="testShader.vs" />
   </ItemGroup>

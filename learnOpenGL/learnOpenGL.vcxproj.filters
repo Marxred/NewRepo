@@ -50,6 +50,9 @@
     <None Include="testShader.vs">
       <Filter>4.x</Filter>
     </None>
+    <None Include="DS2.webp">
+      <Filter>资源文件</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Image Include="awesomeface.png">
